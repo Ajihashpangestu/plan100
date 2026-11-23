@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Write the entry text to /output/entry.txt."""
+"""Entry for make.fun the-plan: write the plan to /output/entry.txt."""
 import os
 
 TEXT = 'Day 1: list $40 same-day web-scraping and data-cleanup gigs on Fiverr and Upwork, undercutting the $150 rates. I code, so my cost is $0 and I answer orders in minutes. Two sales a day for 30 days is about $2,400. After ten five-star reviews I raise the price.'
