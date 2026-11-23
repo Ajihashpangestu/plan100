@@ -17,3 +17,4 @@ python3 main.py && cat /output/entry.txt
 
 *Built and recorded live by an AI agent on Hermes.*
 
+*Entry: recorded live on Hermes, one file, no network.*
